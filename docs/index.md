@@ -1,37 +1,31 @@
 ![](figures/plasma.jpg){align=center  width="900"}
 
-
 ###<p style="text-align: center;">The Heterogeneous Exascale PIC (HEXAPIC)</p>
 
 !!! note ""
 
-    **<p style="text-align: center;">HEXAPIC progress beyond the state-of-the-art - HPC</p>**
+    **<p style="text-align: center;">__HEXAPIC progress beyond the state-of-the-art - HPC__</p>**
     
 ##<u>Hypothesis:</u>
 
- - H1: Modern heterogeneous computer architectures offer a possibility for improved 
-architectures of particle-in cell codes based on optimised algorithms for a description of 
-physical mechanisms, optimal division of workload, use of accelerators, optimised 
-communication and memory management leading to a significant improvement in code 
-performance.
- - H2: Fully-kinetic PIC codes for modelling plasma technological processes are needed to 
-improve our predictive and optimising capabilities. An improved particle-in-cell code, based 
-on state-of-the-art and beyond optimisation, would allow realistic geometries and inclusion of 
-all relevant plasma processes in plasma simulations and offer the highest degree of precision 
-and rigour in plasma description.
+Our ongoing research explores the potential enhancements of particle-in-cell (PIC) codes through the utilization of modern heterogeneous computer architectures. We are focusing on two main hypotheses:
 
-     
+- **H1**: By employing advanced algorithms tailored for complex physical mechanisms, we anticipate significant improvements in PIC code architectures. Our approach emphasizes optimal workload distribution, efficient computing accelerator usage, and enhanced communication and memory management to achieve a marked performance boost.
+
+- **H2**: The necessity of developing fully-kinetic PIC codes is underscored as crucial for accurately modeling plasma technological processes. We aim to optimize our PIC code with state-of-the-art techniques, allowing for the integration of realistic geometries and comprehensive plasma dynamics. This initiative will greatly enhance our predictive and optimization capabilities, leading to unprecedented precision in plasma simulations.
+
 ##<u>Objectives:</u>
 
- - O1: Propose a new PIC code architecture based on heterogeneous architectures of modern 
-high-performance computers, which can be efficiently extended into exascale.
- - O2: Formalise a PIC code capable of exascale performance, which is used to create realistic 
-plasma simulations in terms of geometry and description of processes in plasma.
+- **O1:** Develop a novel Particle-In-Cell (PIC) code architecture that fully exploits the heterogeneous capabilities of modern high-performance computing systems, ensuring scalability to exascale computing levels.
+
+- **02:** Establish a formalized PIC code engineered for exascale performance, facilitating the creation of realistic plasma simulations that accurately represent complex geometries and plasma processes.
 
 ##<u>Contributions:</u>
- - C1: A novel PIC code capable of exascale performance based on an adaptable 
-heterogeneous architecture with optimised memory management and workload splitting. 
- - C2: Use cases showing the capability of the novel PIC code to provide realistic simulations of 
-plasma, including complexities in geometry and plasma collisional and transport processes 
-resulting in new physics insights.
 
+- **C1:** Introduction of a groundbreaking PIC code, optimized for exascale performance, built on an adaptable heterogeneous architecture that includes advanced memory management techniques and effective workload distribution.
+
+- **C2:** Presentation of practical use cases demonstrating the novel PIC code's capability to produce realistic plasma simulations, accounting for intricate geometrical configurations and various collisional and transport processes, ultimately leading to new insights into physical phenomena.
+
+##<u>Funding:</u>
+
+-  This project is jointly funded by the Fonds National de la Recherche (FNR) in Luxembourg under the FNR CORE '__HEXAPIC__' project (grant number __C23/IS/18105668/HEXAPIC__) and the Slovenian Research and Innovation Agency (__ARIS__).

@@ -1,0 +1,1 @@
+The project will officially start from 1st of September 2024. 

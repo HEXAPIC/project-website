@@ -1,1 +1,1 @@
-Our work is currently in the development stage, and we have chosen to keep the [BitBucket](https://bitbucket.org/lecad-peg/hexapic/src/main/) repository private. We will soon release the code to the public.
+### Our project is currently in the development stage, and we have decided to keep the [BitBucket](https://bitbucket.org/lecad-peg/hexapic/src/main/) repository private for now. We will release the code to the public soon.

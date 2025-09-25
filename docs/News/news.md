@@ -1,1 +1,1 @@
-The project will officially start from 1st of September 2024. 
+**The project officially started on 1 September 2024 and will run until 30 August 2027**.
